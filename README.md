@@ -131,7 +131,7 @@
             <li>CONTACT</li></a>
         </ul>
         <div id="img">
-            <img src="Logo.jpg" alt="Logo">
+            <img src="https://drive.google.com/file/d/1p5WZ6Y0HMPE_GGi_8p5yN_vIiIYYsOzM/view?usp=drive_link" alt="Logo">
         </div>
     </div>
     <div id="container">
